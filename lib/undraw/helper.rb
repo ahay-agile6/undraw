@@ -1,3 +1,4 @@
+require 'inline_svg'
 module Undraw
   module Helper
 
